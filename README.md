@@ -1,6 +1,6 @@
 # PySpark Diabetes Prediction Analysis
 
-![Diabetes Visualization](assets/img/project/diabetes_pred.jpg)
+![Diabetes Visualization]([assets/img/project/diabetes_pred.jpg](https://tse2.mm.bing.net/th?id=OIP.ORCMGgpKJA8ib5I59ts5wQHaD4&pid=Api&P=0&h=220))
 
 ## Contents
 
